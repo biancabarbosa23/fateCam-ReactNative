@@ -9,7 +9,7 @@ O projeto necessita do [node.js] para rodar.
 Instale as dependências e devDependências e inicie o servidor
 
 ```sh
-$ git clone https://github.com/ricardoleme/expo-camera
+$ git clone https://github.com/biancabarbosa23/fateCam.git
 $ cd expo-camera
 $ npm install -d
 $ node app
