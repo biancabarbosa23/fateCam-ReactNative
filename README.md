@@ -1,4 +1,5 @@
-# Expo Camera
+# FateCam
+
 Exemplo criado na aula de Aplicação Mobile da faculdade com React Native (Expo) utilizando a câmera.
 
 ## Iniciando
@@ -14,6 +15,6 @@ $ npm install -d
 $ node app
 ```
 
-License
-----
+## License
+
 Nenhuma
